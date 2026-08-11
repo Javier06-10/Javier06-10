@@ -70,7 +70,7 @@
 
 ## ⭐ Proyectos destacados
 
-### 🚗 [UCE Parking](#)
+### 🚗 [UCE Parking](https://github.com/Euris1935/UCEPARKING-Panel.git)
 Sistema inteligente de gestión de estacionamientos que integra software, IoT y visión por computadora.
 
 `Flutter` `Angular` `Supabase` `ESP32` `Arduino` `Python` `YOLO` `EasyOCR`
@@ -80,7 +80,7 @@ Sistema inteligente de gestión de estacionamientos que integra software, IoT y 
 - Registro de entrada/salida de vehículos y gestión de tickets
 - App móvil, panel administrativo e integración con dispositivos IoT
 
-### 💰 [PresuXcel](#)
+### 💰 [PresuXcel](https://github.com/Javier06-10/PresuexcWeb.git)
 Plataforma SaaS para la gestión y generación de presupuestos.
 
 `Angular` `Supabase` `PostgreSQL` `Stripe` `TypeScript`
@@ -89,7 +89,7 @@ Plataforma SaaS para la gestión y generación de presupuestos.
 - Suscripciones y pagos integrados con Stripe
 - Backend basado en servicios cloud
 
-### 📱 [Celulares 360](#)
+### 📱 [Celulares 360](https://github.com/Javier06-10/GestionCelulares.git)
 Sistema de gestión para un negocio de dispositivos móviles.
 
 `.NET` `C#` `Angular` `SQL Server`
@@ -97,8 +97,6 @@ Sistema de gestión para un negocio de dispositivos móviles.
 - Módulos de inventario, productos, clientes y ventas
 - Diseño de base de datos relacional y APIs REST
 - Administración completa del sistema
-
-> Reemplaza los enlaces `(#)` con las URLs reales de cada repositorio.
 
 ---
 
