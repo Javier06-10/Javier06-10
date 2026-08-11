@@ -116,17 +116,6 @@ Software Engineering
 └── DevOps
 ```
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🤝 Conectemos
 
 Abierto a colaborar en proyectos de desarrollo de software, aplicaciones web, APIs, SaaS, IoT y Computer Vision.
