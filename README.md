@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Javier+V%C3%A1squez+%F0%9F%91%8B;Full-Stack+Developer+%7C+Angular+%2B+.NET;Construyo+APIs%2C+SaaS+y+sistemas+de+gesti%C3%B3n;IoT+%2B+Computer+Vision+%F0%9F%A4%96;Resolviendo+problemas+reales+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Javier+V%C3%A1squez+%F0%9F%91%8B;Full-Stack+Developer+%7C+Angular+%2B+.NET;Construyo+APIs%2C+SaaS+y+sistemas+de+gesti%C3%B3n;Apps+m%C3%B3viles+con+Flutter+%F0%9F%93%B1;Apps+de+escritorio+con+Electron+%F0%9F%96%A5%EF%B8%8F;IoT+%2B+Computer+Vision+%F0%9F%A4%96;Resolviendo+problemas+reales+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,6 +24,7 @@
 - 💻 Desarrollador **Full-Stack** enfocado en sistemas mantenibles y escalables
 - 🎓 Estudiante de **Ingeniería de Software**
 - 🌐 Aplicaciones web, **APIs REST**, plataformas **SaaS** y bases de datos
+- 📱 Apps móviles con **Flutter** y apps de escritorio con **Electron**
 - 🔐 Autenticación, autorización y seguridad de aplicaciones
 - 🤖 Interés activo en **IoT, Computer Vision e IA**
 - 🌱 Reforzando: arquitectura de software, diseño de APIs, Docker, CI/CD y cloud
@@ -56,8 +57,12 @@ Problema ➜ Diseño ➜ Arquitectura ➜ Desarrollo ➜ Pruebas ➜ Despliegue 
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40"/></td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile & IoT</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,arduino&perline=8" />
+    <td align="center"><b>📱 Mobile & 🖥️ Escritorio</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,electron&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📡 IoT</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino&perline=8" />
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40"/></td>
   </tr>
   <tr>
@@ -142,6 +147,7 @@ Software Engineering
 ├── 🌐 Full-Stack Development
 ├── 🏛️ Software Architecture & Database Design
 ├── 🔌 REST APIs & SaaS Development
+├── 📱 Mobile & Desktop Apps (Flutter · Electron)
 ├── 🔐 Authentication & Authorization
 ├── ☁️ Cloud Services
 ├── 📡 IoT
@@ -167,10 +173,10 @@ Software Engineering
 Abierto a colaborar en proyectos de software, aplicaciones web, APIs, SaaS, IoT y Computer Vision.
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/TU_LINKEDIN" target="_blank](https://www.linkedin.com/in/javier-vasquez-5b47142ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuNP4KUkCQ7qACSPQtAzmwQ%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="Javierfavian055@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Javier06-10" target="_blank">
